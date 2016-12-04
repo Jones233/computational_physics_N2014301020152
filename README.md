@@ -14,4 +14,5 @@
  - [Exercise_07 3.18](https://www.zybuluo.com/Jones233/note/565724)
  - [Exercise_08 3.31](https://www.zybuluo.com/Jones233/note/573238)
  - [Exercise_09 4.9](https://www.zybuluo.com/Jones233/note/581552)
+ - [Exercise_10 4.20](https://www.zybuluo.com/Jones233/note/589913)
 
